@@ -401,7 +401,7 @@ public:
         bool bValidMove     = false;
         do {
             system ("clear");
-            cout<<endl<<endl<<"          Welcome to Chess Game Developed by Cppsecrets "<<endl<<endl<<endl;
+            cout<<endl<<endl<<"          Welcome to Chess Game Developed by 19BCT0222 "<<endl<<endl<<endl;
             cout<<"                      Keys to sysmbols used "<<endl<<endl<<endl;
             cout<<" * = white space"<<endl;
             cout<<" Blank space = black space"<<endl;
